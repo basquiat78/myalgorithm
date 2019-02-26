@@ -35,8 +35,8 @@ public class PalindromeAlgorithm {
 		//  --> 기본적인 에제에서 다음과 같은 단어인 level의 경우 v는 비교할 이유가 없기 때문이다.
 		// 3. 첫번째 인덱스와 마지막 인덱스의 char를 비교한다. 반복문을 동해서 앞에서 우측으로 맨끝에서 좌측으로 하나씩 이동하면서 char를 비교하는 방법이다.
 		// 4. 한번이라도 이 조건에 맞지 않으면 palindrom이 아니다.
-		for (int fromStart = 0; fromStart < words.length() / 2; fromStart++, fromEnd--) {
-			if (words.charAt(fromStart) != words.charAt(fromEnd)) {
+		for(int fromStart = 0; fromStart < words.length() / 2; fromStart++, fromEnd--) {
+			if(words.charAt(fromStart) != words.charAt(fromEnd)) {
 				return 0;
 			}
 		}
@@ -50,8 +50,8 @@ public class PalindromeAlgorithm {
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("input words : ");
-		
 		String words = scanner.next();
+		
 		System.out.println(isPalindrom(words));
 	}
 
