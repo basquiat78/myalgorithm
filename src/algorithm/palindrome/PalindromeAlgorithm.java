@@ -25,7 +25,6 @@ public class PalindromeAlgorithm {
 	 * @return int
 	 */
 	private static int isPalindrom(String words) {
-		
 		// 들어온 단어의 마지막 인덱스를 구한다.
 		int fromEnd = words.length() - 1;
 
