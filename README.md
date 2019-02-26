@@ -7,3 +7,9 @@
 
 1. [palindrome algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/palindrome)
 2. [stack algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/stack)
+2. [queue algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/queue)
+
+# At A Glance
+IDE에서는 겁나 잘 돈다.    
+근데 문제는 백준 문제 풀이 제출하면 출력 초과 뜬다...     
+시무룩....
