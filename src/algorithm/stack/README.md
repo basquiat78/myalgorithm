@@ -21,3 +21,6 @@ Java 스펙에 Stack이 구현되어 있기 때문에 스펙을 이용한 방식
         
         
 [What is Stack](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D)
+
+# At A Glance
+if문 대신 swith문을 쓸걸...

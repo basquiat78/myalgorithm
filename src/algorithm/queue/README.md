@@ -19,5 +19,8 @@ Redis, Kafka를 쓰면서 application이 지원하는 stack, queue를 사욯해�
 Java 스펙에 Queue가 구현되어 있기 때문에 스펙을 이용한 방식으로 구현.     
 배열로 Queue구현은 포기....     
         
-        
-[What is Queue](https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0))
+       
+[What is Queue](https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0))    
+    
+# At A Glance
+if문 대신 swith문을 쓸걸...
