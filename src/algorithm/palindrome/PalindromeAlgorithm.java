@@ -46,10 +46,9 @@ public class PalindromeAlgorithm {
 	public static void main(String[] args) {
 		//String words = "level";
 		//String words = "levels";
-		@SuppressWarnings("resource")
-		Scanner scanner = new Scanner(System.in);
 		System.out.print("input words : ");
-		String words = scanner.next();
+		@SuppressWarnings("resource")
+		String words = new Scanner(System.in).next();
 		
 		System.out.println(isPalindrom(words));
 	}
