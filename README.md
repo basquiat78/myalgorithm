@@ -5,5 +5,4 @@
     
 따라서 하나씩 쉬운 것들 위주로 시작해 볼까 한다.
 
-1. [palindrome](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/palindrome)
-
+1. [palindrome algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/palindrome)
