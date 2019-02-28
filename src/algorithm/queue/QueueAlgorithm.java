@@ -47,11 +47,11 @@ public class QueueAlgorithm {
 		
 		// 3. 반복문을 돈다.
 		for(int i=0; i<loopCount; i++) {
-			// 4. 명령어 입력
+			// 4. 명령어 입력 e.g. push 10, push 15
 			String inputValue = scanner.nextLine();
 			String command = inputValue.split(" ")[0];
 			
-			if(command.equals("push")) {
+			if(command.contains("push")) {
 				// 5. push의 경우에는 정수를 입력받고 큐에 밀어넣는다.
 				int INTEGER = Integer.parseInt(inputValue.split(" ")[1]);
 				queue.add(INTEGER);
