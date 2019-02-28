@@ -7,7 +7,8 @@
 
 1. [palindrome algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/palindrome)
 2. [stack algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/stack)
-2. [queue algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/queue)
+3. [queue algorithm](https://github.com/basquiat78/myalgorithm/tree/master/src/algorithm/queue)
+4. 이진 탐색 트리 (...ing)
 
 # At A Glance
 IDE에서는 겁나 잘 돈다.    
